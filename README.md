@@ -92,7 +92,7 @@
 
 - IDEs   
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-
+![VScode](https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white)
 ---
 
 ## 2. ER Diagram
