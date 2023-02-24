@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=100&text=나의%20역할%20:%20Java,%20DB&fontColor=0055ff&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=100&text=나의%20역할%20:%20Java,%20DB,%20Python&fontColor=0055ff&fontSize=50)
 <!-- 나의 역할을 바로바로 띄워서 먼저 부각시켜 보여준 후 프로젝트 소개로 넘겨라 -->
 ### 1. Java와 JDBC를 활용해 웹 서비스의 백엔드 기능 구현
 - 회원가입 조건 부여 및 프론트엔드 제작
