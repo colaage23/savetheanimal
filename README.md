@@ -84,7 +84,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
 - DB   
-![MySQL](https://img.shields.io/badge/mysql-#4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-#4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 - Framworks   
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
