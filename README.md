@@ -97,80 +97,24 @@
 ---
 
 ## 2. ER Diagram
-![image](https://user-images.githubusercontent.com/89984853/198649694-9e975d06-8599-4fbc-8626-c9435d02f490.png)
+
 
 ---
 
 ## 3. 흐름도 및 메뉴 구성도
 - 서비스 흐름도   
-![image](https://user-images.githubusercontent.com/89984853/198645290-2fe5f29b-7eba-4f67-81bb-72be47fb57eb.png)   
+
 
 - 메뉴 구성도   
-![image](https://user-images.githubusercontent.com/89984853/198645738-cd9c4823-e3c6-4cbc-971c-c870bcc8519e.png)   
+
 
 ---
 
 ## 4. 프로젝트 일정
-![image](https://user-images.githubusercontent.com/89984853/198654840-1af0df68-a262-4d93-82a4-ae77b238908f.png)
 
 ---
 
 ## 5. 구현 화면
-### 홈(랜덤 추천 기능 - 슬라이드 배너 활용)   
-![image](https://user-images.githubusercontent.com/89984853/199217082-c2264511-dbbe-472d-87b1-e2114002a903.png)
-![image](https://user-images.githubusercontent.com/89984853/199217162-aa6075dd-6641-4034-b96c-47b3f3af9640.png)
-![image](https://user-images.githubusercontent.com/89984853/199217215-b8e044fd-5ab5-420a-8a6d-0349684a69ab.png)   
-
-
-
-### 로그인   
-![image](https://user-images.githubusercontent.com/89984853/199217647-d7664433-374e-4d78-9fa0-326c5908abdf.png)   
-
-
-
-### 회원가입   
-![image](https://user-images.githubusercontent.com/89984853/199217612-607d4450-9658-4ccc-899e-0768f409a375.png)   
-
-
-
-### 마이페이지   
-  #### - 나의 냉장고   
-  ![image](https://user-images.githubusercontent.com/89984853/199221393-281980a3-3be1-4eaa-be8f-cf97b6cdab94.png)   
-  
-  
-  #### - 회원 정보 수정  
-  ![image](https://user-images.githubusercontent.com/89984853/199222442-4be45918-6551-4994-a5c5-ee3aed911c6d.png)   
-
-  
-  #### - 회원 관리   
-  ![image](https://user-images.githubusercontent.com/89984853/199862189-c60eedee-9e64-4936-8431-098d2ad6960b.png)   
-
-
-
-### 레시피(드롭박스, 페이징 활용)   
-![image](https://user-images.githubusercontent.com/89984853/199217870-5629db06-18a0-4797-9d7f-0b1af237cc29.png)
-![image](https://user-images.githubusercontent.com/89984853/199217922-efc37b3d-193d-484c-95fe-77103431a547.png)
-![image](https://user-images.githubusercontent.com/89984853/199217945-96cb5080-3615-460f-a760-350f0482a0a2.png)
-![image](https://user-images.githubusercontent.com/89984853/199218027-86a42244-c71e-4b9a-8f30-7ab8277f6fcc.png)    
-
-
-
-### 레시피 상세 정보(북마크 기능)
-![image](https://user-images.githubusercontent.com/89984853/199219715-35947cbb-faf2-41af-94b0-900d577c10b9.png)   
-![image](https://user-images.githubusercontent.com/89984853/199221106-461d98c3-0c89-4a50-9669-a379b8dc520c.png)
-![image](https://user-images.githubusercontent.com/89984853/199222293-c1f43839-ec63-4b3f-9a4f-fd263f0a6f7e.png)    
-
-
-
-### 검색 결과   
-![image](https://user-images.githubusercontent.com/89984853/199219554-2c567b5e-36b3-407c-9928-bdc24d0420a9.png)      
-
-
-
-### 공지사항   
-![image](https://user-images.githubusercontent.com/89984853/199224938-41edc17e-cdd5-4ced-a130-5d9f9d29077c.png)
-![image](https://user-images.githubusercontent.com/89984853/199224962-9bd01d65-4b4a-48df-bbc3-5be636088719.png)   
-
 
 ---
 
