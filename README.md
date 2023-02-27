@@ -98,6 +98,7 @@
 
 ## 2. ER Diagram
 
+![화면 캡처 2023-02-27 171513](https://user-images.githubusercontent.com/107980423/221509700-aac5e4fe-9085-470e-9fe4-d3f110b6e8b2.png)
 
 ---
 
