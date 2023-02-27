@@ -102,12 +102,14 @@
 
 ---
 
-## 3. 흐름도 및 메뉴 구성도
+## 3. 서비스 흐름도 및 시스템 구성도
 - 서비스 흐름도   
 
+![제목 없는 다이어그램](https://user-images.githubusercontent.com/107980423/221509902-d258e01a-0acb-41fd-9779-a8e3f96fc993.png)
 
-- 메뉴 구성도   
+- 시스템 구성도   
 
+![화면 캡처 2023-02-27 171828](https://user-images.githubusercontent.com/107980423/221510301-01a8b575-cef3-4a69-afe1-b2266514fc79.png)
 
 ---
 
